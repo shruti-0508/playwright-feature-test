@@ -1,0 +1,1 @@
+# everytime we need to click diff URL, run whole code
